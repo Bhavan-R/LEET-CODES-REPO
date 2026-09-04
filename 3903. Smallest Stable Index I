@@ -60,7 +60,7 @@ Constraints:
 0 <= k <= 109
 
 
-C++ CODE :
+C CODE :
 
 int firstStableIndex(int* nums, int numsSize, int k) {
     int suffixMin[100];
